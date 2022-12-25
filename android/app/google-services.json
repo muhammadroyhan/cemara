@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468667536292",
+    "project_id": "cemara-450a3",
+    "storage_bucket": "cemara-450a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468667536292:android:7ce7723a01edf0aa766731",
+        "android_client_info": {
+          "package_name": "com.example.cemara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468667536292-he4hvm7jb73k1cs54phnlm3pmlrhi7lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArbc_KqLd69zPWPSZY0XKNZVICzRmIMXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468667536292-he4hvm7jb73k1cs54phnlm3pmlrhi7lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
